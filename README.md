@@ -1,4 +1,4 @@
-# Java-MapReduce-using-Cloudera-Hadoop
+# Java-MapReduce using Cloudera Hadoop
 Big Data Ecosystem, HDFS, MapReduce
 
 Hadoop MapReduce is a software framework for easily writing applications which process vast amounts 
